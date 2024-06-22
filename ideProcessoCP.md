@@ -4,6 +4,8 @@ identificada no evento, as informações deverão ser incluídas neste grupo, e 
 ## Campo
 - [[tpProc]]
 - [[nrProc]]
+- [[extDecisao]]
+- [[codSusp]]
 - 
 
 

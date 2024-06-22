@@ -11,8 +11,12 @@
             "id": "a621df83d02bc5a3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ideRubrica.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ideRubrica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ideRubrica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ideRubrica.md"
+              }
             }
           }
         ]
@@ -140,31 +148,31 @@
   },
   "active": "a621df83d02bc5a3",
   "lastOpenFiles": [
-    "dadosRubrica.md",
-    "codIncCP.md",
-    "nrProc.md",
-    "ideProcessoCP.md",
-    "tpProc.md",
-    "observacao.md",
-    "tetoRemun.md",
-    "codIncCPRP.md",
-    "codIncIRRF.md",
-    "codIncFGTS.md",
-    "tpRubr.md",
-    "natRubr.md",
-    "dscRubr.md",
-    "inclusao.md",
+    "alteracao.md",
     "ideRubrica.md",
-    "fimValid.md",
-    "iniValid.md",
-    "ideTabRubr.md",
-    "codRubr.md",
     "infoRubrica.md",
-    "evtTabRubrica.md",
-    "ideEmpregador.md",
-    "nrInsc.md",
-    "tpInsc.md",
+    "S-1020 - Tabela de Lotações Tributárias.md",
+    "evtTabLotacao.md",
+    "Id.md",
+    "ideEvento.md",
+    "tpAmb.md",
+    "verProc.md",
+    "procEmi.md",
+    "infoLotacao.md",
+    "exclusao.md",
+    "ideLotacao.md",
+    "ideProcessoFGTS.md",
+    "nrProc.md",
     "S-1010 - Tabela de Rubricas.md",
-    "ideEvento.md"
+    "eSocial.md",
+    "evtTabRubrica.md",
+    "inclusao.md",
+    "dadosRubrica.md",
+    "codIncIRRF.md",
+    "ideProcessoCP.md",
+    "ideProcessoIRRF.md",
+    "codSusp.md",
+    "codIncCP.md",
+    "extDecisao.md"
   ]
 }

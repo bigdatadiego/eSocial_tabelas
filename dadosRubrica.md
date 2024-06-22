@@ -11,6 +11,9 @@ Detalhamento das informações da rubrica.
 - [[tetoRemun]]
 - [[observacao]]
 - [[ideProcessoCP]]
+- [[ideProcessoIRRF]]
+- [[ideProcessoFGTS]]
+- 
 - 
 
 ---
