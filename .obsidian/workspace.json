@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "d70a800a4ec9889f",
+    "type": "split",
+    "children": [
+      {
+        "id": "136a55be1338a6ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a621df83d02bc5a3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd6238f63012e706",
+    "type": "split",
+    "children": [
+      {
+        "id": "efad3770364888bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b11e321cc612d9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "81d0edf50ee26399",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "275f6561683449e4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aefde24e2dffefe2",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbf744a7e2098f9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9e9541d6ce5074b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ac418a7803e940b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7fd23ba2b9c8e5c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "00506e07a7a4a80f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "a621df83d02bc5a3",
+  "lastOpenFiles": [
+    "dadosRubrica.md",
+    "codIncCP.md",
+    "nrProc.md",
+    "ideProcessoCP.md",
+    "tpProc.md",
+    "observacao.md",
+    "tetoRemun.md",
+    "codIncCPRP.md",
+    "codIncIRRF.md",
+    "codIncFGTS.md",
+    "tpRubr.md",
+    "natRubr.md",
+    "dscRubr.md",
+    "inclusao.md",
+    "ideRubrica.md",
+    "fimValid.md",
+    "iniValid.md",
+    "ideTabRubr.md",
+    "codRubr.md",
+    "infoRubrica.md",
+    "evtTabRubrica.md",
+    "ideEmpregador.md",
+    "nrInsc.md",
+    "tpInsc.md",
+    "S-1010 - Tabela de Rubricas.md",
+    "ideEvento.md"
+  ]
+}
