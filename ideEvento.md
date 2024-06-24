@@ -5,6 +5,15 @@ Informações de identificação do evento.
 [[tpAmb]]
 [[procEmi]]
 [[verProc]]
+[[nrRecArqBase]]
+[[indApuracao]]
+[[perApur]]
+
+
 
 
 ---
+# Quando pertencer ao GRUPO PAI
+[[evtBasesTrab]]
+## Descrição
+Identificação do evento de retorno.

@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "136a55be1338a6ef",
+        "id": "7baa08f35213cb1a",
         "type": "tabs",
         "children": [
           {
-            "id": "a621df83d02bc5a3",
+            "id": "752bb24ee6ed887a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ideRubrica.md",
+                "file": "S-1010 - Tabela de Rubricas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2b207863e7e4009",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "evtBasesTrab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe3082e0943ddd16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "evtPgtos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideRubrica.md",
+                "file": "evtPgtos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ideRubrica.md",
+                "file": "evtPgtos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ideRubrica.md"
+                "file": "evtPgtos.md"
               }
             }
           }
@@ -146,33 +171,33 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a621df83d02bc5a3",
+  "active": "fe3082e0943ddd16",
   "lastOpenFiles": [
-    "alteracao.md",
-    "ideRubrica.md",
-    "infoRubrica.md",
-    "S-1020 - Tabela de Lotações Tributárias.md",
-    "evtTabLotacao.md",
-    "Id.md",
-    "ideEvento.md",
-    "tpAmb.md",
-    "verProc.md",
-    "procEmi.md",
-    "infoLotacao.md",
-    "exclusao.md",
-    "ideLotacao.md",
-    "ideProcessoFGTS.md",
-    "nrProc.md",
-    "S-1010 - Tabela de Rubricas.md",
+    "S-1210 - Pagamentos de Rendimentos do Trabalho.md",
+    "evtPgtos.md",
     "eSocial.md",
+    "evtBasesTrab.md",
+    "S-5001 - Informações das Contribuições Sociais por Trabalhador.md",
+    "S-1020 - Tabela de Lotações Tributárias.md",
+    "S-1010 - Tabela de Rubricas.md",
+    "codIncCP.md",
+    "alteracao.md",
+    "aliqRat.md",
+    "extDecisao.md",
+    "ideEmpregador.md",
+    "ideEvento.md",
+    "perApur.md",
+    "indApuracao.md",
+    "nrRecArqBase.md",
+    "Id.md",
     "evtTabRubrica.md",
+    "infoRubrica.md",
+    "ideRubrica.md",
     "inclusao.md",
     "dadosRubrica.md",
-    "codIncIRRF.md",
-    "ideProcessoCP.md",
-    "ideProcessoIRRF.md",
-    "codSusp.md",
-    "codIncCP.md",
-    "extDecisao.md"
+    "ideProcessoFGTS.md",
+    "exclusao.md",
+    "evtTabLotacao.md",
+    "tpAmb.md"
   ]
 }
